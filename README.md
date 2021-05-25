@@ -31,7 +31,7 @@ These are the prerequisites required to run this application:
 - Node
 - npm
 - ReactJs
-- For further help in installation click [here.](Github-Explorer/github-explorer/README.md)
+- For further help in installation click [here.](https://github.com/Sushant2/Github-Explorer/tree/main/github-explorer#readme/)
 
 Fork the Project
 - Create your Feature Branch (```git checkout -b feature/GitHub-Explorer```)
