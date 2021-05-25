@@ -18,7 +18,7 @@ const GithubProvider = ({ children }) => {
   const [followers, setFollowers] = useState(defaultFollowers);
   // request loading
   const [requests, setRequests] = useState(0);
-  const [loading, setLoading] = useState(false);
+  // const [loading, setLoading] = useState(false);
 
   //check error
   const [error, setError] = useState({ show: false, msg: "" });
