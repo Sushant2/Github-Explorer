@@ -31,12 +31,12 @@ These are the prerequisites required to run this application:
 - Node
 - npm
 - ReactJs
+- For further help in installation click [here.](Github-Explorer/github-explorer/README.md)
 
 Fork the Project
 - Create your Feature Branch (```git checkout -b feature/GitHub-Explorer```)
 - Commit your Changes (```git commit -m 'Add some GitHub-Explorer'```)
 - Push to the Branch (```git push origin feature/GitHub-Explorer```)
 - Open a Pull Request
-
 
 
