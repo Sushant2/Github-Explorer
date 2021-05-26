@@ -52,7 +52,10 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 ## Our Contributors ✨:
-
+- [Sushant Gupta](https://github.com/Sushant2)
+- [Anant Mundankar](https://github.com/anantm23)
+- [Maithri Hebbar](https://github.com/maithrivh) 
+- [Suchitra Giri](https://github.com/SUCHITRAGIRI)
 
 
 
